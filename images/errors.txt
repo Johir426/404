@@ -1,0 +1,5 @@
+[2020-02-07 18:52:30] layer "+01776 502 993": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2020-02-07 18:52:30] layer "Support@dentalplus.com": Unsupported extension: com
+[2020-02-07 18:52:30] layer "Copyright © 2015 Dental Plus Theme by Codexcoder.com": Unsupported extension: com
+[2020-02-07 18:52:30] layer "+ 326 581 2547 , 021 583   +88 019 239 702 12, ": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2020-02-07 18:52:30] layer "Support@gmail.com Info@gmail.com": Unsupported extension: com
